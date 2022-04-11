@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/btnSignIn"
+    >
+
+    <EditText
+        android:id="@+id/registerNameEdit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Name"
+        android:textSize="25sp"
+        android:textAlignment="center"
+        style="@style/TextAppearance"/>
+    <EditText
+        android:id="@+id/registerEmailEdit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Email"
+        android:textSize="25sp"
+        android:textAlignment="center"
+        style="@style/TextAppearance"/>
+    <EditText
+        android:id="@+id/registerPasswordEdit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="password"
+        android:textSize="25sp"
+        android:textAlignment="center"
+        style="@style/TextAppearance"/>
+    <EditText
+        android:id="@+id/registerPhoneEdit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Phone"
+        android:textSize="25sp"
+        android:textAlignment="center"
+        style="@style/TextAppearance"/>
+
+</LinearLayout>

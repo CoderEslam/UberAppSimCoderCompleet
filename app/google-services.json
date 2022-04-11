@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "590231420470",
+    "project_id": "uberappsimcoder-dc161",
+    "storage_bucket": "uberappsimcoder-dc161.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590231420470:android:ca4fab54ab1d05fa0ca297",
+        "android_client_info": {
+          "package_name": "com.doubleclick.uberappsimcoder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590231420470-o0s44j6vlfb67j80aifj2pk8r0mf641p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_TeecNjlUEQmRFNyrTWM_bOcvplfbJpc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590231420470-o0s44j6vlfb67j80aifj2pk8r0mf641p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
